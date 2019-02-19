@@ -1,7 +1,7 @@
 {
     "name": "kot-stream-theme",
-    "displayName": "Kot Stream Theme",
-    "description": "Kot Stream Theme for Visual Studio Code",
+    "displayName": "KotStream Theme",
+    "description": "KotStream Theme for Visual Studio Code",
     "icon": "icon.png",
     "version": "1.0.0",
     "publisher": "ruslanusmanov",
@@ -22,7 +22,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Kot Stream Theme",
+                "label": "KotStream Theme",
                 "uiTheme": "vs",
                 "path": "./themes/Kot Stream Theme-color-theme.json"
             }

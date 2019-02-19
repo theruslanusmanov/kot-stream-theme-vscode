@@ -1,4 +1,4 @@
-# Kot Stream Theme
+# KotStream Theme
 
 ![Icon](https://raw.githubusercontent.com/owlruslan/kot-stream-theme-vscode/master/icon.png "Icon")
 
