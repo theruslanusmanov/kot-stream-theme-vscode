@@ -12,6 +12,13 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "Intellij",
+        "JetBrains",
+        "IDEA",
+        "Light",
+        "WebStorm"
+    ],
     "contributes": {
         "themes": [
             {
