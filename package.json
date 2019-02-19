@@ -1,0 +1,21 @@
+{
+    "name": "kot-stream-theme",
+    "displayName": "kot-stream-theme",
+    "description": "Kot Stream Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kot Stream Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Kot Stream Theme-color-theme.json"
+            }
+        ]
+    }
+}
