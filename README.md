@@ -1,14 +1,14 @@
-# README
-## This is the README for your extension "kot-stream-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Kot Stream Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<img src="icon.png" alt="Screenshot" width="720">
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Info
+This theme has been optimized for JavaScript, TypeScript, CSS, SASS(SCSS), HTML and Shell. Other languages are not tested and may differ from the github code styles. Please file an issue or submit a PR in this case.
+
+To get the full theme experience set the following settings in VSCode:     
+```
+"editor.fontFamily": "'Consolas','Liberation Mono','Menlo','Courier','monospace'",
+"editor.fontSize": 13
+```
 
 **Enjoy!**
-"# kot-stream-theme-vscode" 
