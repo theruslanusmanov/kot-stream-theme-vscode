@@ -7,7 +7,7 @@
     "publisher": "ruslanusmanov",
     "repository": "https://github.com/owlruslan/kot-stream-theme-vscode",
     "engines": {
-        "vscode": "^1.31.0"
+        "vscode": "*"
     },
     "categories": [
         "Themes"
