@@ -58,7 +58,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#008000"
+				"foreground": "#808080"
 			}
 		},
 		{
@@ -323,13 +323,15 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#0000ff"
+				"foreground": "#000080",
+				"fontStyle": "bold"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#0000ff"
+				"foreground": "#000080",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -348,7 +350,8 @@
 				"keyword.operator.logical.python"
 			],
 			"settings": {
-				"foreground": "#0000ff"
+				"foreground": "#000080",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -363,7 +366,8 @@
 				"punctuation.section.embedded.end.php"
 			],
 			"settings": {
-				"foreground": "#800000"
+				"foreground": "#800000",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -393,7 +397,8 @@
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#0000ff"
+				"foreground": "#000080",
+				"fontStyle": "bold"
 			}
 		},
 		// HELLO
