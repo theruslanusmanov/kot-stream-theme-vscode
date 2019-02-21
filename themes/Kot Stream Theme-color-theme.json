@@ -64,7 +64,8 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#0000ff"
+				"foreground": "#800000",
+                "fontStyle": "bold"
 			}
 		},
 		{

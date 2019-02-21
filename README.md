@@ -8,7 +8,7 @@ This lightweight theme based on default JetBrains color scheme and extends
 [KotStream Theme Lite](https://github.com/owlruslan/kot-stream-theme-lite-vscode).
 
 ## Info
-This theme has been optimized for JavaScript, TypeScript, PHP, CSS, SASS(SCSS), HTML and Shell. Other languages are not tested and may differ from the github code styles. Please file an issue or submit a PR in this case.
+This theme has been optimized for JavaScript, TypeScript, PHP, CSS, SASS(SCSS), HTML, YAML and Shell. Other languages are not tested and may differ from the github code styles. Please file an issue or submit a PR in this case.
 
 To get the full theme experience set the following settings in VSCode:     
 ```
