@@ -20,39 +20,19 @@ To get the full theme experience set the following settings in VSCode:
 ![JavaScript](https://raw.githubusercontent.com/owlruslan/kot-stream-theme-vscode/master/javascript.png "JavaScript")
 
 ### PHP
-<div style="height:260px">
-
 ![PHP](https://raw.githubusercontent.com/owlruslan/kot-stream-theme-vscode/master/php.png "PHP")
 
-</div>
-
 ### TypeScript
-<div style="height:160px">
-
 ![TypeScript](https://raw.githubusercontent.com/owlruslan/kot-stream-theme-vscode/master/typescript.png "TypeScript")
 
-</div>
-
 ### HTML
-<div style="height:170px">
-
 ![HTML](https://raw.githubusercontent.com/owlruslan/kot-stream-theme-vscode/master/html.png "HTML")
 
-</div>
-
 ### SCSS
-<div style="height:330px">
-
 ![SCSS](https://raw.githubusercontent.com/owlruslan/kot-stream-theme-vscode/master/scss.png "SCSS")
 
-</div>
-
 ### YAML
-<div style="height:180px">
-
 ![YAML](https://raw.githubusercontent.com/owlruslan/kot-stream-theme-vscode/master/yaml.png "YAML")
-
-</div>
 
 ## License
 [MIT](LICENSE) © [Ruslan Usmanov](https://github.com/owlruslan)
