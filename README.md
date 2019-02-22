@@ -16,5 +16,9 @@ To get the full theme experience set the following settings in VSCode:
 "editor.fontSize": 13
 ```
 
+### PHP
+![PHP](https://raw.githubusercontent.com/owlruslan/kot-stream-theme-vscode/master/php.png "PHP")
+
+
 ## License
 [MIT](LICENSE) © [Ruslan Usmanov](https://github.com/owlruslan)
