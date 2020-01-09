@@ -34,11 +34,16 @@
 		"list.activeSelectionBackground": "#3875d6",
 		"list.inactiveSelectionBackground": "#d4d4d4",
 		"editor.lineHighlightBackground": "#fffae3",
-		"editorLineNumber.activeForeground": "#000"
+		"editorLineNumber.activeForeground": "#000",
+		"editorLineNumber.foreground": "#808080"
 	},
+	"workbench.tree.indent": 24,
 	"tokenColors": [
 		{
-			"scope": ["meta.embedded", "source.groovy.embedded"],
+			"scope": [
+				"meta.embedded",
+				"source.groovy.embedded"
+			],
 			"settings": {
 				"foreground": "#000000ff"
 			}
@@ -71,7 +76,7 @@
 			"scope": "constant.language",
 			"settings": {
 				"foreground": "#800000",
-                "fontStyle": "bold"
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -105,22 +110,6 @@
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"foreground": "#ff0000"
-			}
-		},
-		{
-			"scope": [
-				"entity.other.attribute-name.class.css",
-				"entity.other.attribute-name.class.mixin.css",
-				"entity.other.attribute-name.id.css",
-				"entity.other.attribute-name.parent-selector.css",
-				"entity.other.attribute-name.pseudo-class.css",
-				"entity.other.attribute-name.pseudo-element.css",
-				"source.css.less entity.other.attribute-name.id",
-				"entity.other.attribute-name.attribute.scss",
-				"entity.other.attribute-name.scss"
-			],
-			"settings": {
-				"foreground": "#800000"
 			}
 		},
 		{
@@ -426,8 +415,7 @@
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#000080",
-				"fontStyle": "bold"
+				"foreground": "#808000",
 			}
 		},
 		{
@@ -506,10 +494,20 @@
 			}
 		},
 		{
-			"scope": "entity.other.attribute-name",
+			"scope": [
+				"entity.other.attribute-name",
+				"entity.other.attribute-name.class.css",
+				"entity.other.attribute-name.class.mixin.css",
+				"entity.other.attribute-name.id.css",
+				"entity.other.attribute-name.parent-selector.css",
+				"entity.other.attribute-name.pseudo-class.css",
+				"entity.other.attribute-name.pseudo-element.css",
+				"source.css.less entity.other.attribute-name.id",
+				"entity.other.attribute-name.attribute.scss",
+				"entity.other.attribute-name.scss"
+			],
 			"settings": {
-				"foreground": "#000080",
-				"fontStyle": "bold",
+				"foreground": "#800000"
 			}
 		},
 		{
