@@ -489,7 +489,8 @@
 		{
 			"scope": "variable",
 			"settings": {
-				"foreground": "#9876AA",
+				"foreground": "#660e7a",
+				"fontStyle": "bold"
 			}
 		},
 		{

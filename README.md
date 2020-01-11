@@ -1,4 +1,4 @@
-# KotStream Theme
+# KotlinStream Theme
 
 ![Icon](./icon.png)
 
