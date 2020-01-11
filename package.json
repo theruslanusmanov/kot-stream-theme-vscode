@@ -3,7 +3,7 @@
     "displayName": "KotStream Theme",
     "description": "KotStream Theme for Visual Studio Code",
     "icon": "icon.png",
-    "version": "2.0.1",
+    "version": "2.1.0",
     "publisher": "ruslanusmanov",
     "repository": "https://github.com/owlruslan/kot-stream-theme-vscode",
     "engines": {
@@ -40,6 +40,11 @@
                 "label": "KotStream Theme Dark Extended",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Kot Stream Theme-color-theme-dark-extended.json"
+            },
+            {
+                "label": "KotStream Theme Dark Functional",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kot Stream Theme-color-theme-dark-functional.json"
             }
         ]
     }
