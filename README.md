@@ -1,6 +1,7 @@
 # KotStream Theme
 
-![Icon](https://raw.githubusercontent.com/owlruslan/kot-stream-theme-vscode/master/icon.png "Icon")
+![Icon](./icon.svg)
+
 ![Example](https://raw.githubusercontent.com/owlruslan/kot-stream-theme-vscode/master/example.png "Example")
 
 ## Description

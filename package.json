@@ -27,9 +27,19 @@
                 "path": "./themes/Kot Stream Theme-color-theme.json"
             },
             {
-                "label": "KotStream Theme Dark",
+                "label": "KotStream Theme Extended",
                 "uiTheme": "vs",
+                "path": "./themes/Kot Stream Theme-color-theme-extended.json"
+            },
+            {
+                "label": "KotStream Theme Dark",
+                "uiTheme": "vs-dark",
                 "path": "./themes/Kot Stream Theme-color-theme-dark.json"
+            },
+            {
+                "label": "KotStream Theme Dark Extended",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kot Stream Theme-color-theme-dark-extended.json"
             }
         ]
     }

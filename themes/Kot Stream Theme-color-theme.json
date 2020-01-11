@@ -415,7 +415,8 @@
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#808000",
+				"foreground": "#000080",
+				"fontStyle": "bold"
 			}
 		},
 		{
