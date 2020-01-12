@@ -329,7 +329,7 @@
 				"string.quoted.double.handlebars"
 			],
 			"settings": {
-				"foreground": "#A5C261"
+				"foreground": "#7D9869"
 			}
 		},
 		{
@@ -589,7 +589,7 @@
 		},
 		{
 			"name": "Comments",
-			"scope": "comment, punctuation.definition.comment, ts.block.class.method.declaration.comment.line.double-slash, ts.punctuation.definition.decorator.objectliteral.object.member.array.literal.comment.line.double-slash, ts.class.comment.line.double-slash, js.function.punctuation.definition.block.object.objectliteral.member.comment.line.double-slash, meta.js.function.punctuation.definition.block.comment.line.double-slash, comment.block.html",
+			"scope": "comment, punctuation.definition.comment, ts.block.class.method.declaration.comment.line.double-slash, ts.punctuation.definition.decorator.objectliteral.object.member.array.literal.comment.line.double-slash, ts.class.comment.line.double-slash, js.function.punctuation.definition.block.object.objectliteral.member.comment.line.double-slash, meta.function.punctuation.definition.block.comment.line.double-slash, comment.block.html",
 			"settings": {
 				"foreground": "#808080",
 				"fontStyle": ""
@@ -660,7 +660,7 @@
 		},
 		{
 			"name": "Keyword Operator Expression TypeOf",
-			"scope": "keyword.operator.expression.typeof.js",
+			"scope": "keyword.operator.expression.typeof",
 			"settings": {
 				"foreground": "#ce7827"
 			}
@@ -681,10 +681,10 @@
 		},
 		{
 			"name": "Strings, Inherited Class",
-			"scope": "\n                    string, constant.other.symbol, constant.character.escape, constant.character.escape.scss, constant.character.escape.css, invalid.illegal.bad-ampersand.html, ts.block.string.quoted.single, scss.meta.set.variable.string.quoted.single, meta.string.quoted.embedded.line.php.source.single.string-contents, string.quoted.single.js, string.quoted.double.json, string.quoted.single.scss, string.quoted.single.css\n                ",
+			"scope": "\n                    string, constant.other.symbol, constant.character.escape, constant.character.escape.scss, constant.character.escape.css, invalid.illegal.bad-ampersand.html, ts.block.string.quoted.single, scss.meta.set.variable.string.quoted.single, meta.string.quoted.embedded.line.php.source.single.string-contents, string.quoted.single, string.quoted.double.json, string.quoted.single.scss, string.quoted.single.css\n                ",
 			"settings": {
 				"background": "",
-				"foreground": "#6b8657"
+				"foreground": "#7D9869"
 			}
 		},
 		{
@@ -696,14 +696,14 @@
 		},
 		{
 			"name": "Support Console",
-			"scope": "support.class.console.js",
+			"scope": "support.class.console",
 			"settings": {
 				"foreground": "#FF8843"
 			}
 		},
 		{
 			"name": "Support Function Console",
-			"scope": "support.function.console.js",
+			"scope": "support.function.console",
 			"settings": {
 				"foreground": "#FFD24A"
 			}
@@ -716,64 +716,50 @@
 			}
 		},
 		{
-			"name": "_this",
-			"scope": "variable.other.readwrite.js, variable.other.object.js",
-			"settings": {
-				"foreground": "#A6B090"
-			}
-		},
-		{
 			"name": "Variable Parameter",
-			"scope": "variable.parameter.js",
+			"scope": "variable.parameter",
 			"settings": {
 				"foreground": "#A98AAB"
 			}
 		},
 		{
 			"name": "Variable Object Property",
-			"scope": "variable.other.property, variable.other.object.property",
+			"scope": "variable.other.property",
 			"settings": {
 				"foreground": "#759F9E"
 			}
 		},
 		{
 			"name": "Literal Key",
-			"scope": "\n                    meta.object-literal.key, \n                    meta.object.member.object-literal.key, \n                    meta.object-literal.key.js entity.name.function.js\n                ",
+			"scope": "\n                    meta.object-literal.key, \n                    meta.object.member.object-literal.key, \n                    meta.object-literal.key entity.name.function\n                ",
 			"settings": {
 				"foreground": "#9975ab"
 			}
 		},
 		{
 			"name": "Function Storage Block",
-			"scope": "function.storage.type.block.js",
+			"scope": "function.storage.type.block",
 			"settings": {
 				"foreground": "#ce7827"
 			}
 		},
 		{
 			"name": "Function Storage Block",
-			"scope": "support.function.dom.js",
+			"scope": "support.function.dom",
 			"settings": {
 				"foreground": "#9975ab"
 			}
 		},
 		{
 			"name": "ts keyword control",
-			"scope": "keyword.control.export.ts, keyword.control.flow.ts",
+			"scope": "keyword.control.export, keyword.control.flow",
 			"settings": {
 				"foreground": "#ce7827"
 			}
 		},
 		{
-			"name": "ts entity name type",
-			"scope": "entity.name.type.ts",
-			"settings": {
-				"foreground": "#a9b7c7"
-			}
-		},
-		{
 			"name": "ts storage modifier",
-			"scope": "storage.modifier.ts",
+			"scope": "storage.modifier",
 			"settings": {
 				"foreground": "#AB6767"
 			}
@@ -787,28 +773,28 @@
 		},
 		{
 			"name": "ts return",
-			"scope": "\n                    support.type.class.declaration.method.return.primitive.ts, \n                    type.annotation.support.class.declaration.method.parameters.primitive.ts\n                ",
+			"scope": "\n                    support.type.class.declaration.method.return.primitive, \n                    type.annotation.support.class.declaration.method.parameters.primitive\n                ",
 			"settings": {
 				"foreground": "#abdee8"
 			}
 		},
 		{
 			"name": "TS This",
-			"scope": "variable.language.this.ts",
+			"scope": "variable.language.this",
 			"settings": {
-				"foreground": "#BEC7A9"
+				"foreground": "#AB6767"
 			}
 		},
 		{
 			"name": "class",
-			"scope": "\n                    block.variable.other.object.class.declaration.property.method.ts, \n                    block.variable.other.object.class.declaration.method.ts, \n                    block.variable.other.object.array.literal.class.declaration.method.var.expr.ts, \n                    block.variable.class.declaration.method.parameter.arrow, ts.block.variable.other.class.declaration.property.method.ts\n                ",
+			"scope": "\n                    block.variable.other.object.class.declaration.property.method, \n                    block.variable.other.object.class.declaration.method, \n                    block.variable.other.object.array.literal.class.declaration.method.var.expr, \n                    block.variable.class.declaration.method.parameter.arrow, ts.block.variable.other.class.declaration.property.method\n                ",
 			"settings": {
 				"foreground": "#a9b7c7"
 			}
 		},
 		{
 			"name": "class",
-			"scope": "\n                    block.variable.other.object.class.declaration.method.ts,\n                    block.variable.other.object.array.literal.class.declaration.method.var.expr.ts\n                    block.variable.class.declaration.method.parameter.arrow.ts,\n                    block.variable.other.class.declaration.property.method.ts\n                ",
+			"scope": "\n                    block.variable.other.object.class.declaration.method,\n                    block.variable.other.object.array.literal.class.declaration.method.var.expr\n                    block.variable.class.declaration.method.parameter.arrow,\n                    block.variable.other.class.declaration.property.method\n                ",
 			"settings": {
 				"foreground": "#9975ab"
 			}
@@ -1222,7 +1208,7 @@
 		},
 		{
 			"name": "Punctuation",
-			"scope": "\n                    punctuation.definition, \n                    punctuation.section.function, \n                    punctuation.separator,\n                    punctuation.support.type.property-name, \n                    punctuation.accessor.ts,\n                    meta.brace.round,\n                    meta.brace.square,\n                    meta.type.annotation.ts,\n                    support.constant.mathematical-symbols, \n                    block.brace.array.literal.square, \n                    block.brace.round, \n                    block.punctuation, \n                    brace.array.literal.square, \n                    brace.type.square, \n                    punctuation.decorator.objectliteral.object.member.accessor, \n                ",
+			"scope": "\n                    punctuation.definition, \n                    punctuation.section.function, \n                    punctuation.separator,\n                    punctuation.support.type.property-name, \n                    punctuation.accessor,\n                    meta.brace.round,\n                    meta.brace.square,\n                    meta.type.annotation,\n                    support.constant.mathematical-symbols, \n                    block.brace.array.literal.square, \n                    block.brace.round, \n                    block.punctuation, \n                    brace.array.literal.square, \n                    brace.type.square, \n                    punctuation.decorator.objectliteral.object.member.accessor, \n                ",
 			"settings": {
 				"foreground": "#a9b7c7"
 			}
@@ -1278,7 +1264,7 @@
 		},
 		{
 			"name": "Attributes",
-			"scope": "\n                    meta.tag.any.html entity.other.attribute-name.html, \n                    meta.tag.block.any.html entity.other.attribute-name.html, \n                    meta.tag.inline.any.html entity.other.attribute-name.html, \n                    meta.tag.other.html entity.other.attribute-name.html,\n                    source.js.embedded.html entity.other.attribute-name.html\n                ",
+			"scope": "\n                    meta.tag.any.html entity.other.attribute-name.html, \n                    meta.tag.block.any.html entity.other.attribute-name.html, \n                    meta.tag.inline.any.html entity.other.attribute-name.html, \n                    meta.tag.other.html entity.other.attribute-name.html,\n                    source.embedded.html entity.other.attribute-name.html\n                ",
 			"settings": {
 				"foreground": "#cacaca"
 			}
@@ -1299,7 +1285,7 @@
 		},
 		{
 			"name": "JSDOC comments",
-			"scope": "\n                    comment.block.documentation.js, \n                    comment.block.documentation.js punctuation.definition.comment.js\n                ",
+			"scope": "\n                    comment.block.documentation, \n                    comment.block.documentation punctuation.definition.comment\n                ",
 			"settings": {
 				"foreground": "#859A90"
 			}
@@ -1487,7 +1473,31 @@
 		{
 			"scope": "punctuation.definition.variable.elixir",
 			"settings": {
-				"foreground": "#34e7de"
+				"foreground": "#a9b7c7"
+			}
+		},
+		{
+			"scope": "variable",
+			"settings": {
+				"foreground": "#a9b7c7"
+			}
+		},
+		{
+			"scope": "entity.name.type",
+			"settings": {
+				"foreground": "#C7AF3F"
+			}
+		},
+		{
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#a9b7c7"
+			}
+		},
+		{
+			"scope": "variable.other.object",
+			"settings": {
+				"foreground": "#a9b7c7"
 			}
 		},
 		{
