@@ -94,7 +94,7 @@
 		"pickerGroup.foreground": "#a9b7c6",
 		"walkThrough.embeddedEditorBackground": "#363636",
 		"terminal.ansiBlack": "#000000",
-		"terminal.ansiRed": "#d71e00", // the bright color with ~75% transparent on the background
+		"terminal.ansiRed": "#C16160", // the bright color with ~75% transparent on the background
 		"terminal.ansiGreen": "#5da602",
 		"terminal.ansiYellow": "#cfad00",
 		"terminal.ansiBlue": "#417ab3",
@@ -181,7 +181,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#AB6767"
+				"foreground": "#C16160"
 			}
 		},
 		{
@@ -523,7 +523,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#AB6767",
+				"foreground": "#C16160",
 			}
 		},
 		{
@@ -723,13 +723,6 @@
 			}
 		},
 		{
-			"name": "Variable Object Property",
-			"scope": "variable.other.property",
-			"settings": {
-				"foreground": "#759F9E"
-			}
-		},
-		{
 			"name": "Literal Key",
 			"scope": "\n                    meta.object-literal.key, \n                    meta.object.member.object-literal.key, \n                    meta.object-literal.key entity.name.function\n                ",
 			"settings": {
@@ -761,7 +754,7 @@
 			"name": "ts storage modifier",
 			"scope": "storage.modifier",
 			"settings": {
-				"foreground": "#AB6767"
+				"foreground": "#C16160"
 			}
 		},
 		{
@@ -782,7 +775,7 @@
 			"name": "TS This",
 			"scope": "variable.language.this",
 			"settings": {
-				"foreground": "#AB6767"
+				"foreground": "#C16160"
 			}
 		},
 		{
@@ -909,7 +902,7 @@
 			"scope": "keyword.other.important, token.literal.sass",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#CD6564"
+				"foreground": "#C16160"
 			}
 		},
 		{
@@ -930,14 +923,14 @@
 			"name": "CSS Pseudo",
 			"scope": "entity.property-list.other.attribute-name.pseudo-element.css,\n                  entity.property-list.other.attribute-name.pseudo-class.css, entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.pseudo-element.css",
 			"settings": {
-				"foreground": "#AB6767"
+				"foreground": "#C16160"
 			}
 		},
 		{
 			"name": "SCSS Attribute selector",
 			"scope": "entity.other.attribute-name.attribute.scss",
 			"settings": {
-				"foreground": "#AB6767"
+				"foreground": "#C16160"
 			}
 		},
 		{
@@ -1091,7 +1084,7 @@
 			"name": "PHP booleans",
 			"scope": "meta.tag.any.html.string.quoted.double.embedded.line.php.source.constant.language.inline, meta.embedded.line.php.source.constant.language",
 			"settings": {
-				"foreground": "#AB6767"
+				"foreground": "#C16160"
 			}
 		},
 		{
@@ -1112,7 +1105,7 @@
 			"name": "PHP Control Keywords",
 			"scope": "keyword.control.php",
 			"settings": {
-				"foreground": "#AB6767"
+				"foreground": "#C16160"
 			}
 		},
 		{
@@ -1245,7 +1238,7 @@
 			"name": "Property Constant",
 			"scope": "constant.language.json",
 			"settings": {
-				"foreground": "#AB6767"
+				"foreground": "#C16160"
 			}
 		},
 		{
@@ -1440,7 +1433,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#AB6767",
+				"foreground": "#C16160",
 				"fontStyle": "bold"
 			}
 		},

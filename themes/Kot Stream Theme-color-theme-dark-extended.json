@@ -94,7 +94,7 @@
 		"pickerGroup.foreground": "#a9b7c6",
 		"walkThrough.embeddedEditorBackground": "#363636",
 		"terminal.ansiBlack": "#333333",
-		"terminal.ansiRed": "#C4265E", // the bright color with ~75% transparent on the background
+		"terminal.ansiRed": "#C16160", // the bright color with ~75% transparent on the background
 		"terminal.ansiGreen": "#86B42B",
 		"terminal.ansiYellow": "#B3B42B",
 		"terminal.ansiBlue": "#6A7EC8",

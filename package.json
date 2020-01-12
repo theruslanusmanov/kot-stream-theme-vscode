@@ -3,7 +3,7 @@
     "displayName": "KotStream Theme",
     "description": "KotStream Theme for Visual Studio Code",
     "icon": "icon.png",
-    "version": "2.1.3",
+    "version": "2.1.4",
     "publisher": "ruslanusmanov",
     "repository": "https://github.com/owlruslan/kot-stream-theme-vscode",
     "engines": {
